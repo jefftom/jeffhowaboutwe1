@@ -512,8 +512,9 @@ article.primary #related-posts li a.title {
 	margin-top: 5px;
 	padding-right: 10px;
 	padding-left: 10px;
-	height:100px;
+	
 	max-height:450px;
+height:100px;
 }
 article.primary #related-posts li a.img {
 	position: relative;
